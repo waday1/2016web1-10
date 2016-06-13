@@ -91,17 +91,17 @@ footer{
 
 @media screen and (min-width:1025px){
 	#main{
-		max-width:1024px;
+		max-width: 1024px;
 		margin:auto;
 	}
 	
 	section{
-		width:calc(70% - 20px);
+		width: calc(70% - 20px);
 		float:left;
 	}
 	
 	#side{
-		width:calc(1024% - 710px);
+		width: calc(1024% - 718px);
 		float:left;
 	}
 	
