@@ -92,7 +92,7 @@ footer{
 @media screen and (min-width:1025px){
 	#main{
 		max-width: 1024px;
-		margin:auto;
+		margin: auto;
 	}
 	
 	section{
@@ -108,6 +108,7 @@ footer{
 	aside{
 		width:calc(100% - 20px);
 	}
+	
 	#main:after{
 		content:"";
 		display:block;
