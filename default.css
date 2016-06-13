@@ -101,7 +101,7 @@ footer{
 	}
 	
 	#side{
-		width: calc(1024% - 718px);
+		width: calc(1024px - 718px);
 		float:left;
 	}
 	
