@@ -102,7 +102,7 @@ footer{
 	
 	#side{
 		width: calc(1024% - 718px);
-		float:left;
+		float:right;
 	}
 	
 	aside{
