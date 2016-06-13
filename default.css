@@ -77,7 +77,17 @@ footer{
 	background-color:blue;
 }
 
-
+@media screen and(min-width:641px){
+	aside{
+		width:calc(50% - 20px);
+		float:left;
+	}
+	#side:after{
+		content:"";
+		display:block;
+		clear:both;
+	}
+}
 
 
 
