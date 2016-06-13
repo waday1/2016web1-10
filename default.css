@@ -89,6 +89,31 @@ footer{
 	}
 }
 
+@media screen and(min-width:641px){
+	#main{
+		max-width:1024px;
+		margin:auto;
+	}
+	
+	section{
+		width:calc(70% - 20px);
+		float:left;
+	}
+	
+	#side{
+		width:calc(1024% - 710px);
+		float:left;
+	}
+	
+	aside{
+		width:calc(100% - 20px);
+	}
+	#main:after{
+		content:"";
+		display:block;
+		clear:both;
+	}
+}
 
 
 
